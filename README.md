@@ -28,13 +28,13 @@ Your  report  of  screenshots,  code  parts,  explanations,  input  files,  outp
 
 Contributions:
 
-LEE TIAN XIN      :  Question 2, 6, 8, 9, 10
+LEE TIAN XIN      :  Question 2, 6, 8, 9
 
-ESTELLYN HOO WEAY :  Question 5, 7, 8, 9, 10
+ESTELLYN HOO WEAY :  Question 5, 7, 8, 9
 
-HO XIN YONG CINEE :  Question 1, 3, 8, 9, 10
+HO XIN YONG CINEE :  Question 1, 3, 8, 9
 
-DAVID LIM YANG KAI:  Question 4, 8, 9, 10
+DAVID LIM YANG KAI:  Question 4, 8, 9
 
 
 
